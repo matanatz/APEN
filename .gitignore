@@ -1,0 +1,14 @@
+*.html
+*.pyc
+scripts/*
+exps
+.vscode
+.DS_Store
+._DS_Store
+_.DS_Store
+._.DS_Store
+*.pt
+*.ipynb_checkpoints*
+code/pointnet2_repo/build/
+code/pointnet2_repo/dist/
+*.ini
